@@ -1,2 +1,2 @@
 # McNn
-### McNn YYDS
+### McNn扣字机
